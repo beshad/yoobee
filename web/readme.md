@@ -1,4 +1,4 @@
-[Behshad's web class HTML, CSS, JavaScript, Grid & Flexbox resources](https://codepen.io/behshad/collections/)
+[HTML, CSS, JavaScript, Grid & Flexbox resources](https://codepen.io/behshad/collections/)
 
 
 # Building Your First Web Page
