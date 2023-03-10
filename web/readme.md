@@ -2,7 +2,7 @@
 
 ### What Are HTML & CSS
 
-###Understanding Common HTML Terms
+### Understanding Common HTML Terms
 
 - Elements
 - Tags
