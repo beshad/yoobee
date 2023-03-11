@@ -8,7 +8,7 @@
 
 #### UX Strategy
 
-- Developing A Design Brief
+- Developing a Design Brief
 
 #### Usability
 
@@ -24,7 +24,6 @@
 - Contextual inquiry
 - Focus groups
 - Interviews
-- Eyetracking
 - Remote moderated testing
 - Unmoderated testing
 - Diary studies
@@ -40,6 +39,7 @@
 
 - Idea Generation
 - User Flow Diagrams
+- User Stories
 
 #### Prototype
 
@@ -55,6 +55,11 @@
 # Usability Testing
 
 - Tree testing
+- Performance testing
+  - Concurrent Think Aloud
+  - Retrospective Think Aloud
+  - Concurrent Probing 
+  - Retrospective Probing
 - A/B testing
 - Card sorting
 
