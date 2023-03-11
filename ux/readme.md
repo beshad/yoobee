@@ -74,3 +74,9 @@
 - Confirmation
 - User Control
 - Accessibility
+
+# Links & Additional resources
+- [Nielsen Norman Group](https://www.nngroup.com)
+- [Figma](https://www.figma.com)
+- [Miro](https://miro.com)
+- [CodePen](https://codepen.io/behshad)
