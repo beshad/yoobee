@@ -3,55 +3,55 @@
 
 # Building Your First Web Page
 
-### What Are HTML & CSS
+#### What Are HTML & CSS
 
-### Understanding Common HTML Terms
+#### Understanding Common HTML Terms
 
 - Elements
 - Tags
 - Attributes
 
-### Setting Up the HTML Document Structure
+#### Setting Up the HTML Document Structure
 
 - Self-Closing Elements
 - Code Validation
 
-### Understanding Common CSS Terms
+#### Understanding Common CSS Terms
 
 - Selectors
 - Properties
 - Values
 
-### Working with Selectors
+#### Working with Selectors
 
 - Type Selectors
 - Class Selectors
 - ID Selectors
 - Additional/Advanced Selectors
 
-### Referencing CSS
+#### Referencing CSS
 
-### Using CSS Resets
+#### Using CSS Resets
 
 - Cross-Browser Compatibility & Testing
 
 # Getting to Know HTML
 
-### Semantics Overview
+#### Semantics Overview
 
-### Identifying Divisions & Spans
+#### Identifying Divisions & Spans
 
 - Block vs. Inline Elements
 - Comments within HTML & CSS
 
-### Using Text-Based Elements
+#### Using Text-Based Elements
 
 - Headings
 - Paragraphs
 - Bold Text with Strong
 - Italicize Text with Emphasis
 
-### Building Structure
+#### Building Structure
 
 - Header
 - Navigation
@@ -60,7 +60,7 @@
 - Aside
 - Footer
 
-### Creating Hyperlinks
+#### Creating Hyperlinks
 
 - Relative & Absolute Paths
 - Linking to an Email Address
@@ -69,21 +69,21 @@
 
 # Getting to Know CSS
 
-### The Cascade
+#### The Cascade
 
 - Cascading Properties
 
-### Calculating Specificity
+#### Calculating Specificity
 
 - Specificity Points
 
-### Combining Selectors
+#### Combining Selectors
 
 - Specificity Within Combined Selectors
 
-### Layering Styles with Multiple Classes
+#### Layering Styles with Multiple Classes
 
-### Common CSS Property Values
+#### Common CSS Property Values
 
 - Colors
   - Keyword Colors
@@ -99,11 +99,11 @@
 
 # Opening the Box Model
 
-### How Are Elements Displayed
+#### How Are Elements Displayed
 
 - Display
 
-### Working with the Box Model
+#### Working with the Box Model
 
 - Width & Height
 - Sizing Inline-Level Elements
@@ -113,19 +113,19 @@
 - Border Radius
 - Box Sizing
 
-### Developer Tools
+#### Developer Tools
 
 # Positioning Content
 
-### Positioning with Floats
+#### Positioning with Floats
 
 - Clearing & Containing Floats
 
-### Positioning with Inline-Block
+#### Positioning with Inline-Block
 
-### Creating Reusable Layouts
+#### Creating Reusable Layouts
 
-### Uniquely Positioning Elements
+#### Uniquely Positioning Elements
 
 - Relative Positioning
 - Absolute Positioning
@@ -134,31 +134,31 @@
 
 # Working with Typography
 
-### Adding Color to Text
+#### Adding Color to Text
 
-### Changing Font Properties
+#### Changing Font Properties
 
-### Applying Text Properties
+#### Applying Text Properties
 
-### Using Web-Safe Fonts
+#### Using Web-Safe Fonts
 
-### Embedding Web Fonts
+#### Embedding Web Fonts
 
 # Setting Backgrounds & Gradients
 
-### Adding a Background Color
+#### Adding a Background Color
 
-### Adding a Background Image
+#### Adding a Background Image
 
 - Background Repeat
 - Background Position
 
-### Designing Gradient Backgrounds
+#### Designing Gradient Backgrounds
 
 - Linear Gradient Background
 - Radial Gradient Background
 
-### Using Multiple Background Images
+#### Using Multiple Background Images
 
 # Creating Lists
 
@@ -169,45 +169,45 @@
 
 # Adding Media
 
-### Adding Images
+#### Adding Images
 
-### Adding Audio
+#### Adding Audio
 
-### Adding Video
+#### Adding Video
 
-### Adding Inline Frames
+#### Adding Inline Frames
 
 # Building Forms
 
-### Initializing a Form
+#### Initializing a Form
 
-### Text Fields & Textareas
+#### Text Fields & Textareas
 
-### Multiple Choice Inputs & Menus
+#### Multiple Choice Inputs & Menus
 
-### Form Buttons
+#### Form Buttons
 
-### Other Inputs
+#### Other Inputs
 
-### Organizing Form Elements
+#### Organizing Form Elements
 
-### Form & Input Attributes
+#### Form & Input Attributes
 
 # Advanced Flexbox & Grid
 
 # Writing Your Best Code
 
 # JavaScript
-- JS Statements
-- JS Syntax
-- JS Comments
-- JS Variables (var, let, const)
-- Operators
-- Assignments
--  Functions
--  DOM Events
--  JS Arrays
--  JS Booleans, Strings & Numbers
--  JS If Else Conditional Statement
--  JS Loops: forEach, For
--  JS & DOM
+#### JS Statements
+#### JS Syntax
+#### JS Comments
+#### JS Variables (var, let, const)
+#### Operators
+#### Assignments
+#### Functions
+#### DOM Events
+#### JS Arrays
+#### JS Booleans, Strings & Numbers
+#### JS If Else Conditional Statement
+#### JS Loops: forEach, For
+#### JS & DOM
