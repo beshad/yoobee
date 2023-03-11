@@ -38,6 +38,8 @@
 #### Ideate
 
 - Idea Generation
+- Analysis and Synthesis
+- Problem Statement
 - User Flow Diagrams
 - User Stories
 
