@@ -3,6 +3,9 @@
 #### Overview
 You will be supplied with a client’s business brief for this project. The brief will include information about the client and their business requirements. It’s your job to conduct research and produce the components describing a solution that will meet target user requirements and satisfy the client’s brief. It’s also your job to design and produce a prototype to satisfy the client's brief and end-user needs.
 
+
+---
+
 #### Produce a UX Design brief using the provided client’s brief
 - Perform a few initial interviews (research) and formulate several hypotheses in the format discussed in class. 
 - Create a simple UX Strategy document, must include components Vision, Goal and Plan ([UX Strategy Example](www.nngroup.com/articles/ux-strategy))
@@ -15,7 +18,9 @@ You will be supplied with a client’s business brief for this project. The brie
 - Develop a low-fidelity prototype. you can use this as wire-flow and/or sitemap. 
 - Develop an interactive prototype on Figma and provide the link. Review the supplied brief and end user requirements to ensure your prototype includes all the relevant and specified menus, navigation items and links.
 
-Gather all the above and present it in multiple files as a single UX Report zipped compressed document file.
+> Gather all the above and present it in multiple files as a single UX Report zipped compressed document file.
+
+---
 
 #### Deliverables 
 - UX Design Brief 
@@ -30,4 +35,4 @@ Gather all the above and present it in multiple files as a single UX Report zipp
 - Interactive Prototype (Figma preffered)
 - UX Sitemap
 
-All the material to be uploaded as PDF/PNG onto Yoobee campus portal, Please provide me with a link to your prototype on Figma. Wireframe can be on paper or Figma/Miro link. 
+> All the material to be uploaded as PDF/PNG onto Yoobee campus portal, Please provide me with a link to your prototype on Figma. Wireframe can be on paper or Figma/Miro link. 
