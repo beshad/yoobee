@@ -5,6 +5,7 @@ You will be supplied with a client’s business brief for this project. The brie
 
 
 ---
+#### Requirements
 
 - Produce a UX Design brief using ([Client’s Brief Sample](./design%20brief%20template.png))
 - Create a simple UX Strategy document. this includes the components Vision, Goal and Plan ([UX Strategy Resource & Example](www.nngroup.com/articles/ux-strategy))
@@ -26,7 +27,7 @@ You will be supplied with a client’s business brief for this project. The brie
 - UX Design Brief 
 - Hypotheses (x3)
 - UX Strategy 
-- List of about 10-12 UX research questions and studies
+- List of about 10-12 UX research questions
 - 1 Empathy map
 - 1 User Persona
 - 1 User Flow diagram
