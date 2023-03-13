@@ -67,7 +67,7 @@
 
 # UX Writing
 
-# Principles Of UI, HTML & CSS
+# Fundamentals of UI, HTML & CSS
 
 # Principles OF UX
 
@@ -77,8 +77,21 @@
 - User Control
 - Accessibility
 
-# Links & Additional resources
+# Links
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Figma](https://www.figma.com)
 - [Miro](https://miro.com)
 - [CodePen](https://codepen.io/behshad)
+
+# External additional resources & reads 
+- [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
+- [Problem Statements in UX Discovery](https://www.nngroup.com/articles/problem-statements/)
+- [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/)
+- [When to Use Empathy Maps: 3 Options](https://www.nngroup.com/articles/using-empathy-maps/)
+- [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+- [Inclusive Design](https://www.nngroup.com/articles/inclusive-design/)
+- [Internal vs. External Validity of UX Studies](https://www.nngroup.com/articles/internal-vs-external-validity/)
+- [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
+- [Formative vs. Summative Evaluations](https://www.nngroup.com/articles/formative-vs-summative-evaluations/)
+- [Quantitative vs. Qualitative Usability Testing](https://www.nngroup.com/articles/quant-vs-qual/)
+- [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
