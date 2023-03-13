@@ -29,8 +29,8 @@ Our product currently runs mainly online (website), but we’d also like to expa
 Our current brand assets have a more corporate feel, but we’d like to update them and create something more trendy to fit in with our target market. With the company name being Vinyless, we’d like to include playful elements featuring vinyl, retro, vintage or other audio products.
 Here are few examples of styles we like:
 
-[Music App themes on Dribbble](https://dribbble.com/tags/music_app)
-[Music Website themes on Dribbble](https://dribbble.com/tags/music_website)
+- [Music App themes on Dribbble](https://dribbble.com/tags/music_app)
+- [Music Website themes on Dribbble](https://dribbble.com/tags/music_website)
 
 
 ---
