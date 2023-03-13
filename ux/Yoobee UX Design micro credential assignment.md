@@ -6,10 +6,10 @@ You will be supplied with a client’s business brief for this project. The brie
 
 ---
 
-#### Produce a UX Design brief using the provided client’s brief
-- Perform a few initial interviews (research) and formulate several hypotheses in the format discussed in class. 
-- Create a simple UX Strategy document, must include components Vision, Goal and Plan ([UX Strategy Example](www.nngroup.com/articles/ux-strategy))
+- Produce a UX Design brief using ([Client’s Brief Sample](./design%20brief%20template.png))
+- Create a simple UX Strategy document. this includes the components Vision, Goal and Plan ([UX Strategy Resource & Example](www.nngroup.com/articles/ux-strategy))
 - For your user studies, create a list of possible research questions, write survey questions and prepare interview questions. Document these questions.
+- Perform initial interviews, conduct research and formulate several hypotheses in the format discussed in class. 
 - Produce an empathy map. 
 - Develop a user persona. Persona should include user demographic, their motivators, behaviors, needs and any specific requirements e.g. accessibility needs.
 - Develop one Customer Journey Map that defines the steps and process taken by your persona to meet their goal. Draw this up as a timeline, including changes in motivations, problems, emotions and needs along the way.	
@@ -28,11 +28,11 @@ You will be supplied with a client’s business brief for this project. The brie
 - UX Strategy 
 - List of about 10-12 UX research questions and studies
 - 1 Empathy map
-- 1 user persona
-- 1 User flow diagram
-- A customer journey map
+- 1 User Persona
+- 1 User Flow diagram
+- A Customer Journey map
 - UX wireframes
-- Interactive Prototype (Figma preffered)
+- Interactive Prototype (Figma preferred)
 - UX Sitemap
 
 > All the material to be uploaded as PDF/PNG onto Yoobee campus portal, Please provide me with a link to your prototype on Figma. Wireframe can be on paper or Figma/Miro link. 
