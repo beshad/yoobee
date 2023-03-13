@@ -15,9 +15,9 @@ You will be supplied with a client’s business brief for this project. The brie
 - Develop a user persona. Persona should include user demographic, their motivators, behaviors, needs and any specific requirements e.g. accessibility needs.
 - Develop one Customer Journey Map that defines the steps and process taken by your persona to meet their goal. Draw this up as a timeline, including changes in motivations, problems, emotions and needs along the way.	
 - Produce a UX User Flow Diagram that outlines the steps the user must take when using your product or service in order to meet a goal.
-- Produce a simple UX Site Map that defines the hierarchy and navigation structure of your solution. The map should be organized into screens or sections and indicate how the user transitions between sections.
-- Develop a low-fidelity prototype. you can use this as wire-flow and/or sitemap. 
-- Develop an interactive prototype on Figma and provide the link. Review the supplied brief and end user requirements to ensure your prototype includes all the relevant and specified menus, navigation items and links.
+- Produce a simple UX Sitemap that defines the hierarchy and navigation structure of your solution. The map should be organized into screens or sections and indicate how the user transitions between sections.
+- Develop a low-fidelity wireframe prototype. you can use this as wire-flow and/or sitemap. 
+- Develop an interactive prototype on Figma (either hi-fidelity or mid-fidelity is accepted). Review the supplied brief and end user requirements to ensure your prototype includes all the relevant and specified menus, navigation items and links.
 
 > Gather all the above and present it in multiple files as a single UX Report zipped compressed document file.
 
@@ -33,7 +33,7 @@ You will be supplied with a client’s business brief for this project. The brie
 - 1 User Flow diagram
 - A Customer Journey map
 - UX wireframes
-- Interactive Prototype (Figma preferred)
+- Interactive Prototype (link to Figma is preferred)
 - UX Sitemap
 
 > All the material to be uploaded as PDF/PNG onto Yoobee campus portal, Please provide me with a link to your prototype on Figma. Wireframe can be on paper or Figma/Miro link. 

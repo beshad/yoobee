@@ -27,10 +27,11 @@ We’re looking to quickly grow the business, and the current website design isn
 
 Our product currently runs mainly online (website), but we’d also like to expand this to the mobile app too. As our target industry is highly saturated, we’d like our brand to stand out from the rest – we’re not afraid to push boundaries!
 Our current brand assets have a more corporate feel, but we’d like to update them and create something more trendy to fit in with our target market. With the company name being Vinyless, we’d like to include playful elements featuring vinyl, retro, vintage or other audio products.
-Here are some examples of styles we like:
-- https://dribbble.com/shots/10380614-Music-Player-Concept 
-- https://dribbble.com/shots/10769164-Music-app-IOS-3
-- https://dribbble.com/tags/music_app#
+Here are few examples of styles we like:
+
+[Music App themes on Dribbble](https://dribbble.com/tags/music_app)
+[Music Website themes on Dribbble](https://dribbble.com/tags/music_website)
+
 
 ---
 #### Where will the UX design be used
