@@ -85,7 +85,6 @@
 
 # External resources, guides & articles 
 - [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
-- [Problem Statements in UX Discovery](https://www.nngroup.com/articles/problem-statements/)
 - [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/)
 - [When to Use Empathy Maps: 3 Options](https://www.nngroup.com/articles/using-empathy-maps/)
 - [Usability 101: Introduction to Usability](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
@@ -95,3 +94,5 @@
 - [Formative vs. Summative Evaluations](https://www.nngroup.com/articles/formative-vs-summative-evaluations/)
 - [Quantitative vs. Qualitative Usability Testing](https://www.nngroup.com/articles/quant-vs-qual/)
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
+- [Using “How Might We” Questions to Ideate on the Right Problems](https://www.nngroup.com/articles/how-might-we-questions/)
+- [User Need Statement (Problem Statement): The ‘Define’ Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/)
