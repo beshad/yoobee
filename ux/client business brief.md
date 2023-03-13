@@ -13,13 +13,15 @@ My name is John, and I’m the founder and owner of Vinyless – a digital music
 ---
 
 #### What do we need
-We need a new mobile app and website redesign
+We need a new mobile app and website redesign. 
 
 ---
 
 #### Why do we need it
 
 We’re looking to quickly grow the business, and the current website design isn’t performing as well as we’d like. a new mobile app and a redesigned website will help increase brand awareness and push us to become key contenders in the digital audio space.
+
+![Current Vinyless company website ](./Vinyless.png)
 
 ---
 

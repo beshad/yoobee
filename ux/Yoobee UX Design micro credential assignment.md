@@ -3,7 +3,7 @@
 #### Overview
 You will be supplied with a client’s business brief for this project. The brief will include information about the client and their business requirements. It’s your job to conduct research and produce the components describing a solution that will meet target user requirements and satisfy the client’s brief. It’s also your job to design and produce a prototype to satisfy the client's brief and end-user needs.
 
-
+> You are only given the task of producing either a Mobile app design **or** Website design, <u>not both</u>. 
 ---
 #### Requirements
 
