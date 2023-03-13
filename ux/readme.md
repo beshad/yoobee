@@ -83,7 +83,7 @@
 - [Miro](https://miro.com)
 - [CodePen](https://codepen.io/behshad)
 
-# External additional resources & reads 
+# External resources, guides & articles 
 - [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
 - [Problem Statements in UX Discovery](https://www.nngroup.com/articles/problem-statements/)
 - [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/)
