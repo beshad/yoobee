@@ -1,3 +1,4 @@
+# Potential Research Questions
 - What are the biggest challenges customers face when trying to find eco-friendly products online?
 - How do customers typically search for eco-friendly products online?
 - What are the most important factors customers consider when choosing to purchase eco-friendly products?
