@@ -96,3 +96,4 @@
 - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 - [Using “How Might We” Questions to Ideate on the Right Problems](https://www.nngroup.com/articles/how-might-we-questions/)
 - [User Need Statement (Problem Statement): The ‘Define’ Stage in Design Thinking](https://www.nngroup.com/articles/user-need-statements/)
+- [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation)
