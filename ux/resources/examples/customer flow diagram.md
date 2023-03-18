@@ -1,68 +1,23 @@
-  # Customer Flow Diagram 1
-                        +--------------------------------+
-                        |           Discovery            |
-                        |                                |
-                        |       Research Audience        |
-                        |   Analyze Competitors &        |
-                        |       Market Positioning       |
-                        +--------------+-----------------+
-                                       |
-                                       v
-                        +--------------------------------+
-                        |           Registration         |
-                        |                                |
-                        |         Create Account         |
-                        |        Set Preferences         |
-                        |      Agree to Terms of Use     |
-                        +--------------+-----------------+
-                                       |
-                                       v
-                        +---------------------------------+
-                        |         Explore Products        |
-                        |                                 |
-                        |   Browse by Category & Search   |
-                        |     Filter by Eco-Friendliness  |
-                        |         View Product Info       |
-                        +--------------+------------------+
-                                       |
-                                       v
-                        +---------------------------------+
-                        |           Add to Cart           |
-                        |                                 |
-                        |     Add to Cart & Edit Cart     |
-                        |             Checkout            |
-                        +--------------+------------------+
-                                       |
-                                       v
-                        +---------------------------------+
-                        |          Order Tracking         |
-                        |                                 |
-                        |         Track Order Status      |
-                        |           Delivery Info         |
-                        |          Customer Support       |
-                        +--------------+------------------+
-                                       |
-                                       v
-                        +---------------------------------+
-                        |            Usage                |
-                        |                                 |
-                        |   Leave Product Reviews &       |
-                        |          Ratings                |
-                        |       Refer Friends             |
-                        |    Discover More Eco-Products   |
-                        +--------------+------------------+
-                                       |
-                                       v
-                        +--------------------------------+
-                        |            Renewal             |
-                        |                                |
-                        |  Encourage Repeat Purchases &  |
-                        |           Subscriptions        |
-                        +--------------+-----------------+
-                                       |
-                                       v
-                        +--------------------------------+
-                        |          End of Journey        |
-                        |                                |
-                        |        Customer Feedback       |
-                        +--------------------------------+
+```mermaid
+graph TD
+    Start((START)) --> Home_Page[Home Page]
+    Home_Page --> Explore[Explore Products]
+    Explore --> Select[Select Category]
+    Select --> View_Product[View Product]
+    View_Product --> Add_to_Cart{Add to Cart}
+    Add_to_Cart -->|Yes| View_Cart[View Cart]
+    Add_to_Cart -->|No| Explore
+    View_Cart --> Checkout[Checkout]
+    Checkout --> Are_You{Are You Registered?}
+    Are_You -->   |Yes|Login --> Shipping
+    Shipping --> Payment[Payment Method]
+    Payment --> Review[Review Order]
+    Review --> Place[Place Order]
+    Place --> End[END]
+    View_Product --> View_Reviews[View Reviews]
+    Home_Page --> View_Blog[View Blog Posts]
+    Home_Page --> Contact[Contact Us]
+    Contact --> End((End))
+    Are_You -->|No| Register[Register Account]
+    Register --> Shipping
+   Place --> Home_Page
