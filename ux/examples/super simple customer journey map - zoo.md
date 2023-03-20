@@ -17,7 +17,7 @@
 | **Communication and Feedback**  | Sarah prefers to communicate via email and text message, as it allows her to keep track of important information and stay organized. She is also comfortable providing feedback via online surveys and feedback forms. She values open and transparent communication and appreciates businesses that are responsive and attentive to her needs.          
 
 
-#Customer Journey Map                                                              
+# Customer Journey Map                                                              
 
 |                   | Awareness                             | Consideration                                          | Purchase                                                      | Experience                            | Loyalty                                       |
 | ----------------- | ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------- | ------------------------------------- | --------------------------------------------- |
