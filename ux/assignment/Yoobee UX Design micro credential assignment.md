@@ -7,8 +7,8 @@ You will be supplied with a client’s business brief for this project. The brie
 ---
 #### Requirements
 
-- Produce a UX Design brief using ([Client’s Brief Sample](./design%20brief%20template.png))
-- Create a simple UX Strategy document. this includes the components Vision, Goal, Plan & timeline ([UX Strategy Resource & Example](www.nngroup.com/articles/ux-strategy))
+- Produce a UX Design brief using ([Client’s Brief Sample](../resources/design%20brief%20template.png))
+- Create a simple UX Strategy document. this includes the components Vision, Goal, Plan & timeline ([UX Strategy Resource & Example](https://www.nngroup.com/articles/ux-strategy))
 - For your user studies, prepare a list of possible research and/or interview questions. Document these questions.
 - Perform initial interviews, conduct research and formulate several hypotheses in the format discussed in class. 
 - Produce an empathy map. 
