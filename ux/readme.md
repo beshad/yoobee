@@ -99,3 +99,4 @@
 - [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation)
 - [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/)
 - [Journey Mapping for Remote Teams: A Digital Template](https://www.nngroup.com/articles/journey-map-digital-template/)
+- [Wireflows: A UX Deliverable for Workflows and Apps](https://www.nngroup.com/articles/wireflows/)
