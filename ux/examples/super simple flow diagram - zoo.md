@@ -1,4 +1,4 @@
-# Super simple customer journey map example
+# Super simple UX User Flow Diagram example
 ```mermaid
 graph TD
     Start((START)) --> Buy_Ticket[Buy Ticket]
