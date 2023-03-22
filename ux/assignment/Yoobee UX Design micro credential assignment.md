@@ -25,6 +25,10 @@ You will be supplied with a client’s business brief for this project. The brie
 
 ---
 
+#### [Examples](../examples) & [Materials](../materials)
+
+---
+
 #### Deliverables 
 - UX Design Brief 
 - 5x Hypotheses 
@@ -37,5 +41,6 @@ You will be supplied with a client’s business brief for this project. The brie
 - UX wireframes (3 - 5 screens)
 - Interactive Prototype  (3 - 5 screens)
 - 1x UX Sitemap
+
 
 > All the material to be uploaded as PDF/PNG onto Yoobee campus portal, Please provide me with a link to your prototype on Figma. Wireframe can be on paper or Figma/Miro link. 
