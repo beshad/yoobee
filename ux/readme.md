@@ -81,7 +81,8 @@
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Figma](https://www.figma.com)
 - [Miro](https://miro.com)
-- [CodePen](https://codepen.io/behshad)
+- [CodePen | Behshad](https://codepen.io/behshad)
+- [Lucidchart](https://www.lucidchart.com/pages/)
 
 # External resources, guides & articles 
 - [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
