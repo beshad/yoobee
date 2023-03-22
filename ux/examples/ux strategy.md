@@ -1,3 +1,4 @@
+# UX Strategy for Eco-Friendly Marketplace Project
 | Component        | Information                                                                                                                                                                                         |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Vision           | Our vision for this project is to create a website that showcases our commitment to sustainability and eco-friendliness through a modern, clean, and minimalist design. We want to provide a seamless shopping experience for customers and appeal to a wider audience while increasing sales. |
