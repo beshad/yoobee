@@ -1,20 +1,30 @@
 # History Of UX
 
+- What is UX Design
+
 - Differences Between UX & UI
 
-# UX Design Cores
+# UX Design Cores & Principles
 
 #### Empathy in UX
 
-#### UX Strategy
-
 - Developing a Design Brief
+
+#### UX Strategy
 
 #### Usability
 
 #### Inclusive Design, Accessibility & Universal Design
 
 #### UX Validation
+
+#### Visual Hierarchy in UX Design
+
+#### UX Writing
+
+#### UX Design & Consistency
+
+#### UX & Confirmation
 
 # UX Design Thinking
 
@@ -34,6 +44,7 @@
 - User Personas
 - Empathy Maps
 - Journey Maps
+- Use Case
 
 #### Ideate
 
@@ -42,20 +53,14 @@
 - Problem Statement
 - User Flow Diagrams
 - User Stories
+- Storyboarding
 
 #### Prototype
 
 - Digital Prototyping & Wireframing
 - Prototyping tools
 
-#### Test
-
-# Information Architecture
-
-#### UX Sitemap
-
-# Usability Testing
-
+#### User Test & Usability Testing
 - Tree testing
 - Performance testing
   - Concurrent Think Aloud
@@ -65,26 +70,22 @@
 - A/B testing
 - Card sorting
 
-# UX Writing
+# Information Architecture
 
-# Fundamentals of UI, HTML & CSS
+- UX Sitemap
 
-# Principles OF UX
 
-- Hierarchy
-- Consistency
-- Confirmation
-- User Control
-- Accessibility
+# Fundamentals of HTML & CSS
 
-# Links
+
+### Links:
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Figma](https://www.figma.com)
 - [Miro](https://miro.com)
 - [CodePen | Behshad](https://codepen.io/behshad)
 - [Lucidchart](https://www.lucidchart.com/pages/)
 
-# External resources, guides & articles 
+### External resources, guides & articles 
 - [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
 - [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/)
 - [When to Use Empathy Maps: 3 Options](https://www.nngroup.com/articles/using-empathy-maps/)
