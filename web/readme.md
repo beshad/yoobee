@@ -225,3 +225,6 @@
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
   - [Design Course](https://www.youtube.com/@DesignCourse)
+  - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+  - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
+  - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
