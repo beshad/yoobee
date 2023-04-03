@@ -1,6 +1,5 @@
 [HTML, CSS, JavaScript, Grid & Flexbox resources](https://codepen.io/behshad/collections/)
 
-
 # Building Your First Web Page
 
 #### What Are HTML & CSS
@@ -211,3 +210,18 @@
 #### JS If Else Conditional Statement
 #### JS Loops: forEach, For
 #### JS & DOM
+---
+## Links
+- [Visual Studio Code - Code editor.](https://code.visualstudio.com/)
+- [GitHub - Code repository](https://github.com/)
+- [Netlify - Website hosting](https://www.netlify.com/)
+- [Lorem Picsum - Image placeholders](https://picsum.photos/)
+- [OpenStreetMap](https://www.openstreetmap.org/#map=2/-41.2/-6.6)
+- [Google fonts](https://fonts.google.com/)
+- [CSS Tool: Normalize.css](https://necolas.github.io/normalize.css/)
+- [CSS Tool: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [The W3C Markup Validation Service](https://validator.w3.org/)
+---
+## YouTube
+  - [Traversy Media](https://www.youtube.com/@TraversyMedia)
+  - [Design Course](https://www.youtube.com/@DesignCourse)
