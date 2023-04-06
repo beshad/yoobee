@@ -221,6 +221,7 @@
 - [CSS Tool: Normalize.css](https://necolas.github.io/normalize.css/)
 - [CSS Tool: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 - [The W3C Markup Validation Service](https://validator.w3.org/)
+- [Emmet Documentation](https://docs.emmet.io/abbreviations/syntax/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
