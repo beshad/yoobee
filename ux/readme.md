@@ -106,3 +106,4 @@
 - [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation/)
 - [UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
 - [Visual Hierarchy in UX](https://www.nngroup.com/articles/visual-hierarchy-ux-definition/)
+- [The Difference Between Information Architecture (IA) and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)
