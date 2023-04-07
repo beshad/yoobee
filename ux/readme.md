@@ -107,3 +107,10 @@
 - [UX Prototypes: Low Fidelity vs. High Fidelity](https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/)
 - [Visual Hierarchy in UX](https://www.nngroup.com/articles/visual-hierarchy-ux-definition/)
 - [The Difference Between Information Architecture (IA) and Navigation](https://www.nngroup.com/articles/ia-vs-navigation/)
+
+### YouTube 
+- [Nielsen Norman Group](https://www.youtube.com/@NNgroup)
+- [Miro](https://www.youtube.com/@MiroHQ)
+- [Figma](https://www.youtube.com/@Figma)
+- [UX Mastery](https://www.youtube.com/user/uxmastery)
+- [Flux Academy](https://www.youtube.com/c/FluxWithRanSegall/featured)
