@@ -1,83 +1,70 @@
-# History Of UX
-
+## Introduction to UX Design
+- History Of UX
 - What is UX Design
-
 - Differences Between UX & UI
+- Developing a UX Design Brief
+---
+## UX Design Concepts & Principles
 
-# UX Design Cores & Principles
+- ### Empathy in UX
+- ### UX Strategy
+- ### Usability
+- ### Inclusive Design, Accessibility & Universal Design
+- ### UX Validation
+- ### UX Writing
+- ### UX Design & Visual Hierarchy
+- ### Consistency, User Control & Confirmation in UX
 
-#### Empathy in UX
+---
+## Design Thinking Methodology In UX
 
-- Developing a Design Brief
+- ### Research & UX Research Methods
 
-#### UX Strategy
+  - Field studies
+  - Contextual inquiry
+  - Focus groups
+  - Interviews
+  - Remote moderated testing
+  - Unmoderated testing
+  - Diary studies
+  - Surveys
 
-#### Usability
+- ### Define
 
-#### Inclusive Design, Accessibility & Universal Design
+  - User Personas
+  - Empathy Maps
+  - Journey Maps
+  - Use Case
 
-#### UX Validation
+- ### Ideate
 
-#### Visual Hierarchy in UX Design
+  - Idea Generation
+  - Analysis and Synthesis
+  - Problem Statement
+  - User Flow Diagrams
+  - User Stories
+  - Storyboarding
 
-#### UX Writing
+- ### Prototype
 
-#### UX Design & Consistency
+  - Digital Prototyping & Wireframing
+  - Prototyping tools
 
-#### UX & Confirmation
+- ### User Test & Usability Testing
+  - Tree testing
+  - Performance testing
+    - Concurrent Think Aloud
+    - Retrospective Think Aloud
+    - Concurrent Probing 
+    - Retrospective Probing
+  - A/B testing
+  - Card sorting
 
-# UX Design Thinking
-
-#### Research & UX Research Methods
-
-- Field studies
-- Contextual inquiry
-- Focus groups
-- Interviews
-- Remote moderated testing
-- Unmoderated testing
-- Diary studies
-- Surveys
-
-#### Define
-
-- User Personas
-- Empathy Maps
-- Journey Maps
-- Use Case
-
-#### Ideate
-
-- Idea Generation
-- Analysis and Synthesis
-- Problem Statement
-- User Flow Diagrams
-- User Stories
-- Storyboarding
-
-#### Prototype
-
-- Digital Prototyping & Wireframing
-- Prototyping tools
-
-#### User Test & Usability Testing
-- Tree testing
-- Performance testing
-  - Concurrent Think Aloud
-  - Retrospective Think Aloud
-  - Concurrent Probing 
-  - Retrospective Probing
-- A/B testing
-- Card sorting
-
-# Information Architecture
-
+---
+## Information Architecture
 - UX Sitemap
 
-
-# Fundamentals of HTML & CSS
-
-
+---
 ### Links:
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Figma](https://www.figma.com)
