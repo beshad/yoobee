@@ -33,6 +33,7 @@
 #### Using CSS Resets
 
 - Cross-Browser Compatibility & Testing
+- CSS Variables
 
 # Getting to Know HTML
 
@@ -222,6 +223,7 @@
 - [CSS Tool: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 - [The W3C Markup Validation Service](https://validator.w3.org/)
 - [Emmet Documentation](https://docs.emmet.io/abbreviations/syntax/)
+- [BEM CSS Naming](https://getbem.com/naming/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
@@ -229,3 +231,4 @@
   - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
   - [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+  - [CSS-Tricks](https://css-tricks.com/)
