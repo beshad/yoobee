@@ -9,11 +9,20 @@
 - ### Empathy in UX
 - ### UX Strategy
 - ### Usability
-- ### Inclusive Design, Accessibility & Universal Design
+- ### Inclusive Design, Universal Design & Accessibility
 - ### UX Validation
+  - Waterfall
+  - Agile
+  - Design Thinking
+  - Lean
 - ### UX Writing
-- ### UX Design & Visual Hierarchy
-- ### Consistency, User Control & Confirmation in UX
+- ### Information Architecture
+  - UX Sitemap
+  - Card sorting
+  - Tree testing
+- ### UX/UI Design & Visual Hierarchy
+- ### Typography & Color in UX/UI
+- ### Consistency, User Control, Confirmation & other UX/UI principles
 
 ---
 ## Design Thinking Methodology In UX
@@ -28,6 +37,7 @@
   - Unmoderated testing
   - Diary studies
   - Surveys
+  - Analytics
 
 - ### Define
 
@@ -59,10 +69,6 @@
     - Retrospective Probing
   - A/B testing
   - Card sorting
-
----
-## Information Architecture
-- UX Sitemap
 
 ---
 ### Links:
