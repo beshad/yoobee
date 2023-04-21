@@ -1,16 +1,16 @@
 ## Introduction to UX Design
-- History Of UX
-- What is UX Design
-- Differences Between UX & UI
-- Developing a UX Design Brief
+- User Experience Design history
+- User Interface Design history
+- What are UX & UI
 ---
 ## UX Design Concepts & Principles
 
+- ### Developing UX Design Brief
 - ### Empathy in UX
 - ### UX Strategy
 - ### Usability
 - ### Inclusive Design, Universal Design & Accessibility
-- ### UX Validation
+- ### UX Design Validation
   - Waterfall
   - Agile
   - Design Thinking
@@ -20,9 +20,9 @@
   - UX Sitemap
   - Card sorting
   - Tree testing
-- ### UX/UI Design & Visual Hierarchy
-- ### Typography & Color in UX/UI
-- ### Consistency, User Control, Confirmation & other UX/UI principles
+- ### UX Design & Visual Hierarchy 
+- ### Typography & Colour in UX Design
+- ### Usability Principles for Interaction Design
 
 ---
 ## Design Thinking Methodology In UX
@@ -57,8 +57,9 @@
 
 - ### Prototype
 
-  - Digital Prototyping & Wireframing
-  - Prototyping tools
+  - Wireframing
+  - Digital Prototyping
+  - Prototyping & Wireframing tools
 
 - ### User Test & Usability Testing
   - Tree testing
