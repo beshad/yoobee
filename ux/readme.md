@@ -15,7 +15,7 @@
   - Agile
   - Design Thinking
   - Lean
-- ### Usability Principles for UI Design
+- ### Usability Principles for User Interface Design
 - ### UX Writing
 - ### Information Architecture
   - UX Sitemap
