@@ -21,8 +21,8 @@
   - UX Sitemap
   - Card sorting
   - Tree testing
-- ### UX Design & Visual Hierarchy 
-- ### Typography & Colour in UX Design
+- ### UX/UI Design & Visual Hierarchy 
+- ### Typography & Colour Theory in UX Design
 
 ---
 ## Design Thinking Methodology In UX
