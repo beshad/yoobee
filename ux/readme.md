@@ -15,6 +15,7 @@
   - Agile
   - Design Thinking
   - Lean
+- ### Usability Heuristics for UI Design
 - ### UX Writing
 - ### Information Architecture
   - UX Sitemap
@@ -22,7 +23,6 @@
   - Tree testing
 - ### UX Design & Visual Hierarchy 
 - ### Typography & Colour in UX Design
-- ### Usability Principles for Interaction Design
 
 ---
 ## Design Thinking Methodology In UX
