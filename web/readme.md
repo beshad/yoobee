@@ -221,9 +221,11 @@
 - [Google fonts](https://fonts.google.com/)
 - [CSS Tool: Normalize.css](https://necolas.github.io/normalize.css/)
 - [CSS Tool: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [CSS Preprocessor | SCSS](https://sass-lang.com/)
 - [The W3C Markup Validation Service](https://validator.w3.org/)
 - [Emmet Documentation](https://docs.emmet.io/abbreviations/syntax/)
 - [BEM CSS Naming](https://getbem.com/naming/)
+- [TinyPNG - Image Compression](https://tinypng.com/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
