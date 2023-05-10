@@ -1,4 +1,5 @@
 # What are HTML, CSS & JavaScript?
+---
 HTML, CSS, and JavaScript are the three fundamental technologies used to create web pages and web applications:
 
 **HTML** is a markup language used to structure the content of web pages. It defines the elements of a web page, such as headings, paragraphs, lists, links, images, and other media. HTML provides a standardized way to describe the content of a web page, making it accessible to browsers and search engines.
