@@ -226,6 +226,7 @@
 - [Emmet Documentation](https://docs.emmet.io/abbreviations/syntax/)
 - [BEM CSS Naming](https://getbem.com/naming/)
 - [TinyPNG - Image Compression](https://tinypng.com/)
+- [HTML Symbols, Entities and Codes](https://www.toptal.com/designers/htmlarrows/symbols/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
