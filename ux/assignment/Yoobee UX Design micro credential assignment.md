@@ -9,8 +9,8 @@ You will be supplied with a client’s business brief for this project. The brie
 ---
 #### Requirements
 
+<!-- - Create a simple UX Strategy document. this includes the components Vision, Goal, Plan & timeline ([UX Strategy Resource & Example](https://www.nngroup.com/articles/ux-strategy)) -->
 - Produce a UX Design brief using ([Client’s Brief Sample](../resources/design%20brief%20template.png))
-- Create a simple UX Strategy document. this includes the components Vision, Goal, Plan & timeline ([UX Strategy Resource & Example](https://www.nngroup.com/articles/ux-strategy))
 - For your user studies, prepare a list of possible research and/or interview questions. Document these questions.
 - Perform initial interviews, conduct research and formulate several hypotheses in the format discussed in class. 
 - Produce an empathy map. 
@@ -30,9 +30,10 @@ You will be supplied with a client’s business brief for this project. The brie
 ---
 
 #### Deliverables 
+
+<!-- - 5x Hypotheses  -->
+<!--- - UX Strategy  --->
 - UX Design Brief 
-- 5x Hypotheses 
-- UX Strategy 
 - List of about  20 UX research questions
 - 1x Empathy map
 - 1x User Persona
