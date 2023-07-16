@@ -1,0 +1,401 @@
+# 400 UX Research Questions
+
+- What do you like most about [PRODUCT]?
+- What do you like most about [PRODUCT]?
+- What are you currently doing to make this [PROBLEM] / [TASK] easier?
+- Do you have any other thoughts or feedback on the new feature?
+- How does this [PROBLEM] / [TASK] impact other areas of your life or work?
+- What other products or solutions have you tried when looking to accomplish [PROBLEM] / [TASK]?
+- What is the hardest part about [PROBLEM] / [TASK]?
+- What type of workarounds have you created to help you with this [PROBLEM] / [TASK]?
+- What is the biggest pain point related to [PROBLEM]?
+- What do you like about how you currently solve [PROBLEM]?
+- What was one thing you disliked the most about the design?
+- What was one thing you liked the most about the design?
+- Do you feel this design was made for you? Why or why not?
+- How, if at all, do you expect [PRODUCT] to help you accomplish your business goals?
+- Is there anything else about [PRODUCT] or this survey that you would like to share?
+- What are your primary business goals?
+- Will you continue to use [FEATURE]?
+- What's the single most important thing we could do to make [PRODUCT] better?
+- At what price point is [PRODUCT] too expensive?
+- Before we start, could you please tell us briefly about what you do professionally?
+- What did you find easy about the task you performed?
+- Did the [FEATURE] work as you had expected?
+- Do you have any issues or challenges with your current solution?
+- What problems do you face when you do [TASK]?
+- What workarounds have you created for addressing any challenges you have with your current solution?
+- What parts of the [PRODUCT] did you like the most?
+- What could be improved?
+- What could we do to improve this [FEATURE]?
+- Any other feedback you'd like to add?
+- What parts of the [PRODUCT] did you like the least?
+- Do you have any additional feedback for the team?
+- What would you expect to see from the website?
+- How did you find the language (including but not limited to copy, phrasing, tone) used on the website?
+- What are your thoughts on the design and layout?
+- Any additional feedback on your experience with the website?
+- How much would you pay for [PRODUCT]?
+- What would you expect to happen once you've [TASK]?
+- What is the main thing you recall?
+- Based on what you saw, what do you think this product offers?
+- Do you have any final thoughts on what you saw today?
+- What do you like about how this page looks?
+- Was there any other option you considered selecting instead?
+- What has led you to not start using [FEATURE]?
+- Please share any challenges you've faced while trying to use [FEATURE].
+- What would prevent you from achieving [GOAL]?
+- Please complete this sentence: "The biggest challenge my team has with [PRODUCT] / [SOLUTION] is..."
+- About how many people work at your current company/organization? This means everyone that works at your company, not just in your office or department.
+- What is the name of your department or team at your current company?
+- How much influence, if any, do you have in getting your team to adopt a new tool for work?
+- Which of the following best describes your current employment?
+- What made you try or buy [PRODUCT] / [SERVICE]?
+- Can you walk me through the first time you did [TASK]?
+- Can you describe your first impression of our website in three words?
+- How confident did you feel while using [FEATURE]?
+- What was your first impression of Concept A?
+- How believable is the claim?
+- What is the primary reason why you are canceling your account?
+- What is your main goal when [ACTION] / [TASK]?
+- How did you first learn about [PRODUCT]?
+- Would you be interested in follow-up research with a member of the User Research team at [COMPANY]?
+- Imagine that in this very moment, [PRODUCT] is no longer available to you and your team. Which of the following best reflects how you feel about this?
+- Which of the following industries best describes your current company/organization?
+- Which of the following best describes your role or job function?
+- What does your role look like at your company?
+- How integral is [PRODUCT] in your day to day work?
+- How likely are you to recommend [PRODUCT] to a friend or colleague?
+- How might you go about performing [TASK]?
+- How easy or difficult was it to learn how to use [PRODUCT] when [CONTEXT/SCENARIO]?
+- What level of difficulty best describes your experience completing [TASK]?
+- Did the experience meet your expectations?
+- How well does this communicate [THEME]?
+- How satisfied are you with [FEATURE]?
+- How satisfied or dissatisfied are you with your overall [PRODUCT] experience?
+- If you could change one thing about the design what would it be and why?
+- If you could change one thing about [PRODUCT] what would it be and why?
+- Any problems accessing or setting up [FEATURE]?
+- What is the main reason you use [PRODUCT]?
+- For how many, if any, of your work responsibilities do you rely on [PRODUCT]?
+- Which of the following best reflects your attitudes towards [PRODUCT]?
+- What tools are most important to help you accomplish your key responsibilities?
+- Please complete this sentence: "The most frustrating part of using [PRODUCT] is…”
+- Please complete the following sentence: "With [PRODUCT], I hope that me/my team can..."
+- What teams do you work with on a daily basis? (By "team" we mean discipline or functional groups.)
+- Which of the tools that you use at work has the largest impact on your work? By "tools," we mean to software or services you use for work.
+- How do you prefer to be trained on new software?
+- How much do you agree or disagree with the following statement:
+  There are no other products like [PRODUCT] out there.
+- Is anything missing from your experience?
+- Is there anything you look for on website that is missing or hard to find?
+- We may be interested in contacting you to learn more about your answers, are you open to us doing so?
+- Do you have any questions or unresolved problems?
+- Were there any aspects of the messaging you felt were unclear or hard to understand?
+- Have you ever used a website or app that lets you [SERVICE]?
+- Have you started using [FEATURE]?
+- Have you used [PRODUCT] before?
+- Was the navigation as expected?
+- How did you find the ease of use?
+- On a scale of 1-10, how was your experience when signing up?
+- Please describe your experience of navigating the site.
+- What was your first impression of the design?
+- How clear was the information on this page?
+- Please rate your overall experience using [FEATURE].
+- Sign up to [FEATURE] on the [PRODUCT].
+- Did you run into any problems with [FEATURE]?
+- Complete the [TASK] by navigating to [FEATURE].
+- How would you go about signing up for the product?
+- Which features do you use the most?
+- What type of operating system do you currently use on your phone?
+- When solving [PROBLEM] what is most important for you?
+- Where did you first find out about [PRODUCT]?
+- What are the most important tasks you need to perform when using [PRODUCT]?
+- How often do you do [TASK]?
+- Which image do you prefer?
+- How often do you [ACTIVITY]?
+- How would you describe the level of information provided?
+- Where would you find [FEATURE] within this page?
+- Did you know about [PRODUCT] [OFFER] before?
+- Could you explain what you consider when using [PRODUCT] to [TASK]?
+- Had you ever heard of [COMPANY]?
+- Do you feel this product is similar to any others?
+- What do you expect to gain from using this product?
+- When and where do you think someone would use this [PRODUCT] / [FEATURE]?
+- What alternative method would you use to perform [TASK]?
+- Was anything surprising or did not perform as expected?
+- Was the interface easy to understand?
+- What was the easiest task to accomplish?
+- What was the hardest task to accomplish?
+- How likely would you be to download or purchase [PRODUCT]?
+- Tell me about the last time you [ACTION] and the [SCENARIO].
+- What haven’t we asked you that you think would be valuable for us to know?
+- Were you aware that [PRODUCT] offers [FEATURE]?
+- How long do you expect the [TASK] to take?
+- Under what circumstances would you want to receive an alert within this registration workflow?
+- How much time do you typically spend on [PROBLEM] / [TASK]?
+- Why do you think someone would use this [PRODUCT] / [FEATURE]?
+- What group(s) of people do you think would use this [PRODUCT] / [FEATURE]?
+- What might keep people from using this [PRODUCT] / [FEATURE]?
+- What is the most you would be willing to spend to purchase this [PRODUCT]?
+- Does this remind you of any other products?
+- What does your typical workday look like?
+- What are some of the apps or websites you use the most in a given week?
+- What is most appealing about this [PRODUCT] / [FEATURE]?
+- Was there anything missing from this product that you expected to be included?
+- What devices do you typically use when utilising the [PRODUCT]?
+- How would you describe your past and current experience with [PRODUCT] / [COMPANY]?
+- Can you see yourself ever using a product like this?
+- Would you use this product today?
+- Tell me about your experience using your current [PRODUCT].
+- "What were your impressions of the on-boarding experience within the app?"
+- How successful or unsuccessful do you feel you were at completing this task?
+- Provide an estimate for how much time this task took to complete.
+- What do you expect to happen after [TASK]?
+- What do you think your next step is here?
+- Tell me what you're thinking while looking at this page. What do you think you are observing here?
+- What would be your next step in this flow?
+- What are your three most important activities?
+- How often do you use [PRODUCT]?
+- How long have you [ACTIVITY]?
+- What could make this experience better for you?
+- What did you think of the interface?
+- Which tools or frameworks have you used in the past to accomplish [TASK]?
+- What is your age?
+- To which gender identity do you most identify?
+- Which best describes the type of company you're part of?
+- What's your relationship like with [TOPIC]?
+- Please describe who you might collaborate with when [TASK]?
+- How important is saving time when completing [TASK]?
+- How much are you currently spending to solve the problem?
+- How would you feel if we discontinued this feature?
+- Has your opinion on [PRODUCT] changed within the last 12 months?
+- What appeals, or doesn't appeal to you visually?
+- How valuable might this feature be in your workflow?
+- Please indicate if you agree with the following statement. I can do my job efficiently when using this feature.
+- Please indicate if you agree with the following statement. It is easy to find the information I need.
+- Please indicate if you agree with the following statement. The functionality is relevant to my needs.
+- What would motivate you to do [TASK]?
+- In what scenario or context would you imagine yourself doing [TASK]?
+- Does the messaging provide the right volume of information?
+- Please give this feature a descriptive name, based on what it does.
+- What do you think this screen will enable you to do?
+- Please summarize our product in three words.
+- What comes to mind when you think of [PRODUCT]?
+- How relevant is this feature to your daily life?
+- How does this [FEATURE] compare to what you are currently used to?
+- What were the search terms you used to find our site?
+- What did you come to this site to do today?
+- Which other options did you consider before choosing [PRODUCT]?
+- What topics would you like to see us write about next?
+- What other products would you like to see us offer?
+- Was this section useful?
+- Did this article answer your question?
+- Were you able to find the information you were looking for?
+- What other information would you like to see on this page?
+- Does the claim provide too much information, too little information, or the right amount of information?
+- How would you rate your overall experience on our site today?
+- Is there anything preventing you from signing up at this point?
+- What would change your mind about signing up for an account?
+- Is our pricing clear?
+- What could we do to make this site more useful?
+- What is preventing you from starting a trial?
+- Is there anything preventing you from completing your purchase?
+- Was there anything about the checkout process that we should improve?
+- What prevented you from doing what you came to do on the site?
+- Anything else you'd like to add regarding our pricing?
+- What caught your attention about this site in your search results?
+- What is the biggest influence on your purchasing decision?
+- What persuaded you to purchase [PRODUCT]?
+- Please list the top three things that persuaded you to use our product rather than an alternative solution.
+- What was your biggest challenge, frustration or problem in finding [PRODUCT] online?
+- What's one feature we can add that would make our product indispensable to you?
+- Of these options, what's the next thing you think we should build?
+- What do you see as&nbsp;your primary goal&nbsp;within your current role?
+- What do you see as&nbsp;your biggest challenge&nbsp;within your current role?
+- What three words would you use to describe your&nbsp;personal approach to [TOPIC]?
+- Thinking toward the future, how do you envision your current field might change over the next 5 years?
+- How supported do you feel [TOPIC] is&nbsp;by the leadership team&nbsp;in your organization?
+- When considering your average workload, how many projects are you typically working on at any given time?
+- What is your personal measure of success when it comes to [GOAL]?
+- For what types of projects do you tend to use our product over other tools?
+- What do you enjoy most about using our product?
+- What does this feature mean to you?
+- What best describes your funding stage?
+- Which of the following describes your role in decisions about [TOPIC] in your team or company?
+- What benefits do you think [PRODUCT] / [SERVICE] has?
+- When you’re thinking about buying [PRODUCT], what 3 brands come to mind?
+- What types of products have you purchased online before? Select all that apply.
+- Rate how probable you are to [ACTION].
+- Rate how [PRODUCT] performs or ranks as compared to others.
+- How exciting is [FEATURE] / [CONCEPT]?
+- How unique is [FEATURE] / [CONCEPT]?
+- What action was the webpage asking you to take?
+- What else do you remember from the webpage?
+- Would you use this [FEATURE] in future?
+- Could you see yourself using this app regularly?
+- Could you tell us what was unclear, or what was missing?
+- What didn't work as expected?
+- How much time and money does this cost your business?
+- What do you think [FEATURE] lets you do?
+- Thinking about the claim overall, which of the following best describes your feelings about it?
+- How unique is the messaging claim?
+- How relevant is the claim to your wants and needs?
+- In your own words, what is the message of the claim?
+- How likely would you be to buy the product based on the claim?
+- What are your favorite aspects of Concept A?
+- What are your least favorite aspects of Concept A?
+- How often would you use Concept A?
+- How much would you pay for Concept A?
+- What else do you remember about the image?
+- Explore our new feature.
+- How frequent would you use [FEATURE]?
+- How complex was the feature to use?
+- When thinking about [FEATURE], how likely would you be to need a technical person in order to use it?
+- How well integrated did you find the functions of this [FEATURE] into your workflow?
+- What do you want to achieve by using this product?
+- Based on this tagline, what do you think [COMPANY] does?
+- Were there any cards or categories that you felt were unclear or hard to understand?
+- Were there any cards that you feel didn’t belong to any of the categories?
+- Would you rename any of the categories?
+- How are you currently solving [PROBLEM]?
+- Which of the following have you used to solve [PROBLEM]?
+- How much would you pay for [SERVICE]?
+- Did you feel the site offered too little information, too much information or just enough?
+- What is the implication if you fail to solve this problem?
+- What’s missing from what you’ve tried already?
+- In your experience of this challenge, what would be the key area you'd look to alleviate first?
+- Are you currently a paying customer of [PRODUCT]?
+- At what point would you consider [PRODUCT] a bargain?
+- At what price point is [PRODUCT] so expensive that you wouldn't purchase it?
+- When thinking about [PRODUCT] price point, what other product and service's comes to mind as a comparison?
+- What do you think of our current pricing?
+- How easy was it for you to get started with [PRODUCT]?
+- Overall, how valuable was the onboarding experience?
+- How clear did you find the information presented during the product onboarding?
+- When thinking about the product onboarding experience from start to finish, should it have been longer, shorter, or was it just about right?
+- What else would have been useful to you to know in order to get started?
+- What did you find most helpful on your journey?
+- What are the activities you spent the most amount of time on?
+- Which of the activities do you find add the most value, despite how much time they may take you to complete, and why?
+- What could be better about how you do this?
+- Do you find [PRODUCT] useful?
+- What is your favorite thing about [PRODUCT]?
+- What do you think needs the most improvement?
+- How comfortable are you with the product after the onboarding session?
+- How well do you understand what is required of you on this page?
+- What brought you to the website today?
+- How likely are you to return to the website?
+- What is the primary reason for your score?
+- What's the one thing we could do to make [PRODUCT] better?
+- Which phrases from the description make you feel more confident about using the service?
+- Which phrases from the description make you feel less confident about using the service?
+- What do you need to plan for, or what decisions do you need to make before you begin [JTBD]?
+- How many times in the last [TIME FRAME] did you look to [JTBD]?
+- About how many times have you visited the website in the past month?
+- How important is it for you to be able to [JTBD]?
+- What is your biggest challenge, frustration or problem with this [JTBD]?
+- What would enable you to accomplish this task more effectively?
+- How much does successfully completing this task save the business?
+- How well does [PRODUCT] help you [GOAL] / [TASK]?
+- How customized is [PRODUCT] to your interests and needs?
+- What kinds of collaborative projects have you been involved with in the past?
+- How reliable is the performance of [FEATURE]?
+- Were you able to accomplish what you used [FEATURE] for?
+- What did you learn from this webpage?
+- How relevant was the headline to you?
+- Did this version feel more or less engaging?
+- What do you think is the purpose of the email?
+- How much does the subject line resonate with you?
+- How likely would you be to open an email with that subject line?
+- Thinking about what the product offers, which of the following best describes your feelings about it?
+- What is the main benefit you receive from [PRODUCT]?
+- How much time do you spend using [PRODUCT]?
+- What's your biggest priority right now?
+- Are we meeting your expectations?
+- What vertical best describes your company?
+- What information is missing or would make your decision to buy easier?
+- What is your biggest fear or concern about purchasing this item?
+- What would persuade you to use [PRODUCT] more often?
+- What's one feature we can add that would make our product indispensable for you?
+- If you could no longer use [PRODUCT], what’s the one thing you would miss the most?
+- Is there anything preventing you from upgrading at this point?
+- What other content would you like to see us offer?
+- What were the main things that persuaded you to join our list today?
+- If someone were to solve this problem, how would that improve your life?
+- What are your initial thoughts on this solution?
+- Please describe your last experience with [COMPANY].
+- Which skills are required to do your job?
+- How do you manage your time?
+- How would you improve the process of [TASK]?
+- How visually appealing is this logo?
+- Would you change any of the colors of this logo?
+- Is this logo memorable? Why or why not?
+- What do you like about the logo?
+- What do you dislike about the logo?
+- Now that you’ve seen both logo concepts, which do you prefer? Why?
+- What do you think of the pricing page layout?
+- Are the pricing options clear?
+- Which features in this subscription tier are most important to you?
+- What industry do you think this company operates in?
+- What decisions do you frequently need to make?
+- What triggers you to [ACTION]?
+- What metrics do you currently track? Why are they important?
+- How do you prefer to purchase [PRODUCT]?
+- Think about a frustrating experience you had when [ACTION]. What happened to make that experience frustrating?
+- How do you typically find information about this type of product?
+- What websites do you use to discover new products?
+- What do you research about a product before purchasing it?
+- What type of product do you research the most before purchase?
+- What is the biggest difficulty you face when purchasing this type of product?
+- Now that you’ve solved [PROBLEM], what’s next?
+- What influences you to purchase a product online?
+- What deters you from purchasing a product online?
+- What is your preferred brand of this product?
+- What factors determine your budget for this product?
+- How could we have helped you better use our product?
+- How can we improve your general experience with the company?
+- If someone asked you about this product, what would you say to them?
+- What is the main factor that influences your decision to switch brands?
+- How would you use this new feature?
+- What excites you about this new feature?
+- Do you think this new feature improves the existing product?
+- Have you seen something similar to this feature elsewhere?
+- How do you think this new feature will improve your experience?
+- What do you like best about the messaging we use to promote our product?
+- How would you explain [PRODUCT] to a friend, family member, or colleague?
+- What communication channels would you prefer we use?
+- What supplementary content would help you use our product?
+- What companies or products do you perceive as our competitors?
+- How does [PRODUCT] messaging stand out from the competition?
+- How could our brand be more honest and transparent?
+- What charity do you think pairs well alongside [PRODUCT] / [COMPANY]?
+- What do we do better than other companies in this field?
+- What would you use as an alternative if [PRODUCT] was no longer available?
+- What values do you think [COMPANY] upholds?
+- How would you find a company like ours on Google?
+- If we introduced [FEATURE], would you want to test it?
+- Is there something you expected from [PRODUCT] / [SERVICE] that you did not get?
+- How does our website compare to other websites you shop from?
+- What’s the one thing we should never stop doing?
+- How would you describe [PRODUCT] to a friend or colleague?
+- When you think of our brand, what comes to mind?
+- Which of the following best describes your need for this product?
+- How often could you find a use for this product?
+- What do you think about the story we tell through our website?
+- In terms of other products or brands, who can we learn from?
+- How would you rate the support you've received?
+- Are you following [COMPANY] on social media? If so, which platforms?
+- Do you read [COMPANY] blog?
+- What type of content do you prefer to consume the most?
+- Why do you usually consume content?
+- How do you usually discover new content?
+- Have you ever read or watched any content from [COMPANY]?
+- From what you can recall when seeing content from [COMPANY], what was your first impression?
+- What type of content would you like to see from [COMPANY] in the future?
+- Do you have specific content needs related to your industry?
+- Are there any communication channels you would prefer we use?
+- If you were looking to [TASK], where in this design would you expect to start?
+- What could we do to potentially wow you?
+- Describe the last time you struggled with [TASK], what was that like?
+- What would be the most ideal scenario for [TASK] from the website/app?
