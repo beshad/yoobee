@@ -226,6 +226,8 @@
 - [Emmet Documentation](https://docs.emmet.io/abbreviations/syntax/)
 - [BEM CSS Naming](https://getbem.com/naming/)
 - [TinyPNG - Image Compression](https://tinypng.com/)
+- [Crop, resize images in JPEG|PNG|GIF format](https://resizeimage.net/)
+- [Pexels - Free stock images & videos ](https://www.pexels.com/)
 - [HTML Symbols, Entities and Codes](https://www.toptal.com/designers/htmlarrows/symbols/)
 ---
 ## YouTube
