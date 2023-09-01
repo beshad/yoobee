@@ -2,59 +2,69 @@
 
 ### Name
 
-Vinyless company UX project
+Nano Technology Limited
 
 ---
 
 ### About our company
 
-My name is John, and I’m the founder and owner of Vinyless – a digital music, podcast, and video service enabling users to stream their favorite audio, as well as upload and share their own. We have been running for 3 years and have over 300,000+ users.
+we are a locally owned and operated business that has been at the forefront of innovation and new technologies for the past two and half decades. Our primary focus has been on marketing and selling advanced nanotechnology products, particularly our core product, the FuelSaver. Despite our dedication to groundbreaking solutions, we've encountered challenges in effectively communicating the substantial benefits of our products to potential customers. For over 20 years, Our goal has been to make an impact in the domestic automotive industry by helping private and commercial drivers save fuel and mitigate the impact of soaring fuel prices.
 
 ---
 
 ### What do we need
-We need a new mobile app and website redesign. 
+
+We're seeking a UX design solution that will breathe new life into our digital platform and empower us to present our Nano FuelSaver and other products more effectively. 
+
+We're also open to exploring any other innovative solutions that can help us communicate with our target audience effectively and consequently increase our sales volume.
 
 ---
 
 ### Why do we need it
 
-We’re looking to quickly grow the business, and the current website design isn’t performing as well as we’d like. a new mobile app and a redesigned website will help increase brand awareness and push us to become key contenders in the digital audio space.
+We are aware that our current digital presence is failing to convey the true potential of our Nano FuelSaver, resulting in missed opportunities to engage potential customers. Despite the pressing need for fuel-saving solutions in the face of escalating fuel costs, we've struggled to reach our target audience effectively. 
 
-![Current Vinyless company website ](./Vinyless.png)
+We're convinced that a strategic UX design solution can revolutionise our online presence, educate potential customers, and ultimately boost sales.
 
 ---
 
 ### Our vision for the project
 
-Our product currently runs mainly online (website), but we’d also like to expand this to the mobile app too. As our target industry is highly saturated, we’d like our brand to stand out from the rest – we’re not afraid to push boundaries!
-Our current brand assets have a more corporate feel, but we’d like to update them and create something more trendy to fit in with our target market. With the company name being Vinyless, we’d like to include playful elements featuring vinyl, retro, vintage or other audio products.
-Here are few examples of styles we like:
+We're on a mission to revolutionise our way we connect with potential customers, particularly those in the automotive industry. Our primary objective is to showcase the transformative impact of our Nano FuelSaver. 
 
-- [Music App themes on Dribbble](https://dribbble.com/tags/music_app)
-- [Music Website themes on Dribbble](https://dribbble.com/tags/music_website)
-
+We're seeking a UX design solution that not only highlights the features of our product but also conveys the substantial savings it offers in the context of today's fuel prices. We believe in the power of human-centred design to create a compelling narrative around the financial benefits, environmental impact, and ease of use of our product.
 
 ---
 ### Where will the UX design be used
-The app design will be launched immediately on a mobile platform (Android or iOS), with some design assets being passed onto our new desktop platform.
+
+The redesigned UX design will primarily be implemented on our website, offering a user-friendly and informative platform for potential customers to learn about our Nano FuelSaver. Additionally, we're open to exploring other non-digital innovative UX solutions that can help us connect with our target audience effectively.
 
 ---
 ### What file types are required
-PDF or PNG files are preferred, however wireframes and prototypes can be delivered by Figma or Miro URLs too.
+
+We encourage the submission of comprehensive UX design proposals in PDF or DOC format. Other interactive prototypes and wireframes developed using tools like Figma or Miro are also welcome to showcase your innovative ideas and solutions.
 
 ---
 ### Target audience
-Users are aged 18-34, with expendable income, and an interest in social media
+
+Our target audience includes vehicle owners, fleet managers, and individuals seeking cost-effective solutions to combat rising fuel expenses. They are individuals and professionals who are eager to explore practical solutions to save on fuel costs.
+
+---
+### Our website
+
+[Current Nano Technology company website](https://nanotechnology.net.nz)
 
 ---
 ### Deadline
-We’d like the UX design completed as early as possible. Our deadline for completion is NEXT month.
+
+we aim to finalise the design solution within two weeks.
 
 ---
 ### Budget
-NZ$5500
+
+We're committed to investing NZ$15,000 in this transformative project, recognising the pivotal role that UX design will play in shaping our success.
 
 ---
 ### Point of contact
-You’ll be working with John Doe and my Head of Design, Jane Smith
+
+Your key points of contact will be John Doe, Managing Director, and Jane Smith, Web Developer. They're enthusiastic about your creative input and your ability to help us effectively communicate the value of our Nano FuelSaver and explore additional UX solutions that can drive our growth
