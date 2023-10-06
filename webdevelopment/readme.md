@@ -229,6 +229,10 @@
 - [Crop, resize images in JPEG|PNG|GIF format](https://resizeimage.net/)
 - [Pexels - Free stock images & videos ](https://www.pexels.com/)
 - [HTML Symbols, Entities and Codes](https://www.toptal.com/designers/htmlarrows/symbols/)
+- [HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
+- [Font Awesome](https://fontawesome.com/icons)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [cdnj - Content delivery network](https://cdnjs.com/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)

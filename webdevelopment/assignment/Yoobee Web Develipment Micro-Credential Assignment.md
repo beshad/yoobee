@@ -38,7 +38,7 @@ The aim is to apply the fundamentals of JavaScript to develop the logic and inte
 - Make sure that the content of the text box is cleared when the button is clicked so it’s ready for the next input from the user
 - Code must be organized and explained using comments
 
-![Example JavaScript ](../sample-js-form.png)
+![Example JavaScript ](../example-js-form.png)
 
 ---
 
