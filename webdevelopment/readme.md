@@ -234,6 +234,7 @@
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [cdnj - Content delivery network](https://cdnjs.com/)
 - [Gradient Magic](https://www.gradientmagic.com/)
+- [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
