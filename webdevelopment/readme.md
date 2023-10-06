@@ -233,9 +233,11 @@
 - [Font Awesome](https://fontawesome.com/icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [cdnj - Content delivery network](https://cdnjs.com/)
+- [Gradient Magic](https://www.gradientmagic.com/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
+  - [Kevin Powell](https://www.youtube.com/@KevinPowell)
   - [Design Course](https://www.youtube.com/@DesignCourse)
   - [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)
