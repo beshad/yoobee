@@ -229,6 +229,7 @@
 - [Crop, resize images in JPEG|PNG|GIF format](https://resizeimage.net/)
 - [Pexels - Free stock images & videos ](https://www.pexels.com/)
 - [HTML Symbols, Entities and Codes](https://www.toptal.com/designers/htmlarrows/symbols/)
+- [Copy Paste Character](https://copypastecharacter.com/)
 - [HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp)
 - [Font Awesome](https://fontawesome.com/icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
