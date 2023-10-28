@@ -106,6 +106,7 @@
 
 ### YouTube 
 - [Nielsen Norman Group](https://www.youtube.com/@NNgroup)
+- [DesignCourse](https://www.youtube.com/designcourse)
 - [Miro](https://www.youtube.com/@MiroHQ)
 - [Figma](https://www.youtube.com/@Figma)
 - [UX Mastery](https://www.youtube.com/user/uxmastery)
