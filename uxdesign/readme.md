@@ -78,6 +78,8 @@
 - [Miro](https://miro.com)
 - [CodePen | Behshad](https://codepen.io/behshad)
 - [Lucidchart](https://www.lucidchart.com/pages/)
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/)
+- [Google Material Design](https://m2.material.io/design)
 
 ### External resources, guides & articles 
 - [UX Strategy: Definition and Components](https://www.nngroup.com/articles/ux-strategy/)
