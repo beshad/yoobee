@@ -26,4 +26,4 @@
 - Considers the convenience and ease of purchasing eco-friendly products online
 - Thinks about the social impact of their purchasing choices and how they can make a difference
 
-!(Empathy Mapping: The First Step in Design Thinking)[https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png]
+![Empathy Mapping: The First Step in Design Thinking](https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png)
