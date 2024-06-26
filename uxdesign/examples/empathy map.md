@@ -25,5 +25,3 @@
 - Thinks about the credibility of eco-friendly product claims and certifications
 - Considers the convenience and ease of purchasing eco-friendly products online
 - Thinks about the social impact of their purchasing choices and how they can make a difference
-
-![Empthy Map Template](./materials/empathy map template.png)
