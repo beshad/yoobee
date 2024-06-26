@@ -1,3 +1,5 @@
+### A website for users who are interested in purchasing eco-friendly products online
+---
 # Says
 - "I wish it were easier to find eco-friendly products online"
 - "I usually search for eco-friendly products using specific keywords"
@@ -23,3 +25,5 @@
 - Thinks about the credibility of eco-friendly product claims and certifications
 - Considers the convenience and ease of purchasing eco-friendly products online
 - Thinks about the social impact of their purchasing choices and how they can make a difference
+
+!(Empathy Mapping: The First Step in Design Thinking)[https://media.nngroup.com/media/editor/2017/12/14/screen-shot-2017-12-14-at-55525-pm.png]
