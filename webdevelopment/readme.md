@@ -236,6 +236,8 @@
 - [cdnj - Content delivery network](https://cdnjs.com/)
 - [Gradient Magic](https://www.gradientmagic.com/)
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+- [EmojiDB](https://emojidb.org/)
+- [Emojis](https://tools.picsart.com/text/emojis/)
 ---
 ## YouTube
   - [Traversy Media](https://www.youtube.com/@TraversyMedia)
