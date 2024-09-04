@@ -76,6 +76,7 @@
 - [Nielsen Norman Group](https://www.nngroup.com)
 - [Figma](https://www.figma.com)
 - [Miro](https://miro.com)
+- [Accessibility & WCAG Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [CodePen | Behshad](https://codepen.io/behshad)
 - [Lucidchart](https://www.lucidchart.com/pages/)
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/)
